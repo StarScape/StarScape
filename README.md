@@ -1,4 +1,4 @@
-Software engineer by job title, hacker at heart.
+Software engineer by job title, [hacker](https://en.wikipedia.org/wiki/Hacker_culture#cite_ref-7) at heart.
 
 Interested in: envelope-pushing web apps, mobile dev (mostly Android), Lisp (mostly Clojure), reactive UI, functional programming, type systems, WASM, Rust, performance, tools for creativity, and tools for language learning.
 
