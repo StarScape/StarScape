@@ -6,4 +6,4 @@ I subscribe to the "bicycle for the mind" philosophy of computing. I want to mak
 
 ---
 
-I am available for contract or full-time work. You can reach my at the email in my profile.
+I am available for contract or full-time work. You can reach me at the email in my profile.
