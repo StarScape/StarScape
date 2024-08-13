@@ -1,4 +1,4 @@
-Software engineer by trade, [hacker](https://en.wikipedia.org/wiki/Hacker_culture#cite_ref-7) at heart.
+Software engineer.
 
 Interested in: cutting-edge web apps, innovative UX, offline-first, mobile dev (mostly Android), Lisp (mostly Clojure), snappy low-latency software, reactive UI, functional programming, type systems, WASM, Rust, performance, tools for creativity, and tools for language learning.
 
