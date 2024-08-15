@@ -10,8 +10,6 @@ I'm the developer of [Droplet](https://www.dropletwriter.com/), an Electron-base
 
 > "What they had in common was mainly love of excellence and programming. They wanted to make their programs that they used be as good as they could. They also wanted to make them do neat things. They wanted to be able to do something in a more exciting way than anyone believed possible and show "Look how wonderful this is. I bet you didn't believe this could be done." <sup>[[1]](https://web.archive.org/web/20240727050620/https://en.wikipedia.org/wiki/Hackers_Wizards_of_the_Electronic_Age)</sup>
 
-<br/>
-
 ---
 
 I am available for contract or full-time work. You can reach me at the email in my profile.
