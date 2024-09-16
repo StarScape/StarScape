@@ -12,4 +12,4 @@ I'm the developer of [Droplet](https://www.dropletwriter.com/), an Electron-base
 
 ---
 
-I am available for contract or full-time work. You can reach me at the email in my profile.
+I am available for contract ~~or full-time~~ work. You can reach me at the email in my profile.
