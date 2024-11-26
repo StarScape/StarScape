@@ -1,4 +1,4 @@
-Full stack web and mobile developer.
+Software dev.
 
 Interested in: cutting-edge web apps, innovative UX, offline-first, mobile dev (mostly Android), Lisp (mostly Clojure), snappy low-latency software, reactive UI, functional programming, type systems, WASM, Rust, performance, tools for creativity, and tools for language learning.
 
