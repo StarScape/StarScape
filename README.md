@@ -1,7 +1,7 @@
 Software dev interested in:
 
 * Boundary-pushing web apps
-* Offline-first, snappy low-latency software, and innovative UX
+* Offline-first, innovative UX, and performance as a feature
 * Lisp/Clojure, functional programming, reactive UI paradigms, and type systems that don't suck
 * Rust, WASM, performance
 * Tools for creativity and learning
