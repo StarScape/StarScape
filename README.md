@@ -14,4 +14,4 @@ I'm the developer of [Droplet](https://www.dropletwriter.com/), an rich text edi
 
 ---
 
-I like to connect. I'm reachable at the email in my profile.
+I love connecting with interesting folks from the open source world. I'm reachable at the email in my profile.
