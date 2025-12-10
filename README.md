@@ -3,7 +3,7 @@ Software dev interested in:
 * Boundary-pushing web apps
 * Offline-first, innovative UX, and performance as a feature
 * Lisp, Clojure, functional programming, reactive UI paradigms, and type systems that don't suck
-* Rust and WASM
+* WASM (_one day_ I'll get to do a WASM project in Rust, one day!)
 * Tools for creativity and learning
 
 I subscribe to the "bicycle for the mind" philosophy of computing. I want to make software that enhances users' productivity and joy. I try to contribute back to open source projects that have done that for me.
